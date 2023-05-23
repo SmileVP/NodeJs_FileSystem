@@ -8,7 +8,7 @@ Use the above link in postman to POST the time in the below format
     "time":"23-05-2023 13:20 IST"
 }
 
-On sending this post request in return the follwing response will be returned
+On sending this post request in return the following response will be returned
 [
     {
         "message": "Data saved Successfully",
